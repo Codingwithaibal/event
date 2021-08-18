@@ -19,11 +19,11 @@
   display: flex;
   border-radius: 8px;
   margin: 32px 0;
-  background: rgb(171, 249, 217);
+  background:#FFFFFF;
 }
 
 .event .event-left {
-  background: rgb(23, 59, 220);
+  background: #A6B3E9;
   min-width: 82px;
   display: flex;
   align-items: center;
